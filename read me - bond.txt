@@ -1,0 +1,10 @@
+Can James Bond be black?
+Objective:
+Do you think it is acceptable or unacceptable for the character of James Bond to be black?
+
+The data set is a response generated data.
+Variable Information:
+Group: Can James Bond be from this group?
+Response: Survey answer
+Remain: People who want to remain in EU
+Leave: People who want to leave EU
